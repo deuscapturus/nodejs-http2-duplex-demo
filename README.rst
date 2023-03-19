@@ -8,6 +8,7 @@ In two terminals run:
 
 .. code:: bash
 
+   npm install
    npm run server
    npm run client
 
